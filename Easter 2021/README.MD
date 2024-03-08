@@ -4,6 +4,7 @@ They helped me with the tests in this cheat:
 - NezeriK (Discord: _nezerik)
 - Dantu_Show (Discord: dantuvargi)
 - симба пипочка (Discord: .tegrolf)
+- CYBERNEIGHBOR (Discord: cyberneighbor)
 
 # Functions
 
