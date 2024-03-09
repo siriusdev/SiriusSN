@@ -23,4 +23,5 @@ Paranormal 2022 - https://drive.usercontent.google.com/download?id=1B-cxIjzu5WmX
 # Developer contacts
 
 Discord: zmeyskiy#3151
+
 Telegram: zmeyskiy
