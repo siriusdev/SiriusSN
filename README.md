@@ -4,9 +4,13 @@ I want to create a cheat for every version of this game. If you want to donate t
 
 # Game versions
 
-Rocket Science (2020) - https://drive.google.com/file/d/10QvVsyf1pbBA7FlD-y4R6lTEqgpNbRrj/view?usp=share_link 
+Rocket Science (2020) - https://drive.google.com/file/d/10QvVsyf1pbBA7FlD-y4R6lTEqgpNbRrj/view?usp=share_link
+
 Halloween 2020 - https://drive.google.com/file/d/1KffuKCTOUIpBeJxMXLWVHptyCifvD1TQ/view?usp=sharing
+
 Easter 2021 - https://drive.google.com/file/d/1g4BAhQHTwBGUHFrbEdhr68_mwtr337kJ/view?usp=sharing
+
+Paranormal 2022 - https://drive.usercontent.google.com/download?id=1B-cxIjzu5WmXbazeVlh-OSaZjC-WluGR
 
 # Usage
 
