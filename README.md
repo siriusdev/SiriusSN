@@ -12,6 +12,8 @@ Easter 2021 - https://drive.google.com/file/d/1g4BAhQHTwBGUHFrbEdhr68_mwtr337kJ/
 
 Paranormal 2022 - https://drive.usercontent.google.com/download?id=1B-cxIjzu5WmXbazeVlh-OSaZjC-WluGR
 
+Easter Alpha 2019 - https://drive.google.com/file/d/1oVkWwe8a50t14uMcL9LmQ98dUT70VK1x/view?usp=share_link 
+
 # Usage
 
 1. Install MelonLoader version 0.5.7
